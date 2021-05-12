@@ -18,5 +18,7 @@ RAM: Corsair Vengeance LPX DDR4 3200 C16 2x8GB $79
 MBD: Asus PRIME A320M-K $65
 Total: $368
 ");
+
+      System.out.println("Check out this website for a $350 PC build: https://www.tomshardware.com/how-to/350-pc-build");
   }
 }
